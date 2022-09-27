@@ -1,2 +1,2 @@
-# message-classifier
-This is an end to end implementation of message classifying app
+# message-classifier-new
+This is a project on implementation of message classifier which classifies messages to either spam or personal.
